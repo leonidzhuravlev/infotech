@@ -8,3 +8,5 @@
 <li>  Составлены позитивный и негативный тест-кейс  </li> 
 <li>  Написан пример запроса API  </li> 
 </ul>
+
+С решением вы можете ознакомиться по [ссылке](https://docs.google.com/spreadsheets/d/1HmIiAKB9zJ63P_5F99xf3bdtGdGDEc-pAzVIvsNJbM0/edit?usp=sharing)
